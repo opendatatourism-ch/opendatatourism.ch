@@ -1,7 +1,5 @@
 name: "OpenDataTourism.ch"
-description: "Hier werden zum Thema Open Data im Tourismus geschrieben.
-Ziel ist es gemeinsam an offen Daten zu arbieten, für alle zur Verfügungstellen und diese ohne Einschränkunen nutzen zu können.
-Den dies Daten sind sowieso öffentlich verfügbar."
+description: "Gemeinsam an offen Daten zu arbeiten, zur Verfügung stellen und ohne Einschränkunen weiterverwenden."
 url: "opendatatourism.ch"
 show_downloads: false
 theme: jekyll-theme-cayman
