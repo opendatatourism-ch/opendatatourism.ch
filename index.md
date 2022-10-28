@@ -1,8 +1,3 @@
----
-layout: home
-background: '/img/bg-index.jpg'
----
-
 ## Willkommen bei Open Data Tourismus
 
 You can use the [editor on GitHub](https://github.com/tsolenthaler/blog.opendatatourism.ch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

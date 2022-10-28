@@ -1,10 +1,4 @@
 name: "OpenDataTourism.ch"
 description: ""
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      slug: null
 url: "opendatatourism.ch"
 theme: jekyll-theme-cayman

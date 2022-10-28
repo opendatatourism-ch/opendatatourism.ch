@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Öffnungszeiten von OpenStreetmap"
+layout: default
 ---
 
 # Öffnungszeiten von OpenStreetMap
