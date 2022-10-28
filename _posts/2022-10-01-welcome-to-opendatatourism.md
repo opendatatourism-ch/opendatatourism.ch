@@ -1,6 +1,8 @@
 ---
 title:  "Welcome to Jekyll!"
+description: "test"
 layout: default
+
 ---
 
 # Welcome

@@ -1,5 +1,6 @@
 ---
 title:  "Öffnungszeiten von OpenStreetmap"
+description: "Einfach anpassen"
 layout: default
 ---
 
