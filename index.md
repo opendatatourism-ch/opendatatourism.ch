@@ -1,3 +1,8 @@
+---
+title:  "Open Data Tourismus"
+description: "Gemeinsam an offen Daten für den Tourismus arbeiten, zur Verfügungstellen und ohne Einschränkunen weiterverwenden."
+---
+
 ## Willkommen bei Open Data Tourismus
 
 Hier werden zum Thema Open Data im Tourismus geschrieben.
