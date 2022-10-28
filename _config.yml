@@ -3,3 +3,8 @@ description: "Hier werden zum Thema Open Data im Tourismus geschrieben.
 Ziel ist es gemeinsam an offen Daten zu arbieten, für alle zur Verfügungstellen und diese ohne Einschränkunen nutzen zu können.
 Den dies Daten sind sowieso öffentlich verfügbar."
 url: "opendatatourism.ch"
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
