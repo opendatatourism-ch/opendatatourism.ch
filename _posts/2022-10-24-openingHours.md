@@ -3,7 +3,7 @@ layout: post
 title:  "Öffnungszeiten von OpenStreetmap"
 ---
 
-# Öffnungszeiten von OpenStreetMp
+# Öffnungszeiten von OpenStreetMap
 
 Öffnungszeiten nutzen von OpenStreetmap.
 Beispiel /examples/index.html
