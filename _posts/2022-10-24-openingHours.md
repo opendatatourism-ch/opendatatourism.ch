@@ -17,5 +17,6 @@ Beispiel Betriebszustand von Standorten
 ## Plfegen der Öffnungszeiten
 Pflegen von Öffnungszeiten bei OpenStreetmap.
 https://projets.pavie.info/yohours/
+
 Leider werden diese Daten nicht automatisch bei OpenStreetMap gepseichert. Sie müssen manuel "übertragen" werden zu dem gewünschten Eintrag.
 
