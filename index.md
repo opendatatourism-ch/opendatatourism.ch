@@ -18,5 +18,3 @@ Den dies Daten sind sowieso öffentlich verfügbar.
     </li>
   {% endfor %}
 </ul>
-
-### TEst

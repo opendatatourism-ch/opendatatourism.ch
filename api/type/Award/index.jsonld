@@ -1,0 +1,28 @@
+[
+    {
+        "@type": "Award",
+        "identifier": "okgo",
+        "name": "OK:GO",
+        "logo": {
+            "@type": "ImageObject",
+            "name": "SVG OK:Go",
+            "author": "TSO AG",
+            "contentUrl": "https://openfrontend.tourismusweb.site/assets/img/labels/ok_go.svg",
+            "description": "Auszeichnung von OK:GO als SVG",
+            "license": "???"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gilde",
+        "name": "Gilde",
+        "logo": {
+            "@type": "ImageObject",
+            "name": "SVG Gilde",
+            "author": "TSO AG",
+            "contentUrl": "https://openfrontend.tourismusweb.site/assets/img/labels/gilde.svg",
+            "description": "Auszeichnung von Gilde als SVG",
+            "license": "???"
+        }
+    }
+]

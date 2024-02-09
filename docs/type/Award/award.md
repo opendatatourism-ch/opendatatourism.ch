@@ -20,12 +20,11 @@ Auszeichnungen gemäss https://schema.org/award erweitert gemäss https://docs.d
         "description": "Auszeichnung von OK:GO als SVG",
         "license": "???"
     }
-    "
 }
 
 ```
 
 
-## Open Data JSON-LD
+## Open Data JSON-LD List
 
 
