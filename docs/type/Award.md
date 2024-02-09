@@ -1,5 +1,6 @@
 ---
 title: Award / Auszeichnungen
+permalink: /docs/type/Award
 ---
 # Award
 
