@@ -4,10 +4,12 @@ permalink: /docs/type/Award
 ---
 # Award
 
-Auszeichnungen gemäss [schema.org/award](https://schema.org/award) erweitert gemäss [docs.discover.swiss](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
+Auszeichnungen für den Tourismus gemäss [schema.org/award](https://schema.org/award).
+Erweitert gemäss [docs.discover.swiss](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
 
 
-## Dokumentation / Tabelle
+## Datentabelle der Auszeichnungen
+Ist die Basis für das JSON-LD
 
 [Tabelle](https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ2JM/edit#gid=0)
 
@@ -23,13 +25,13 @@ Auszeichnungen gemäss [schema.org/award](https://schema.org/award) erweitert ge
         "author": "TSO AG",
         "contentUrl": "https://openfrontend.tourismusweb.site/assets/img/labels/ok_go.svg",
         "description": "Auszeichnung von OK:GO als SVG",
-        "license": "???"
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/"
     }
 }
-
 ```
 
 
 ## Open Data JSON-LD List
 
-[Liste](https://opendatatourism.ch/api/type/Award/index.jsonld)
+[JSON-LD](/api/type/Award/index.jsonld)
+[CSV](/api/type/Award/index.csv)
