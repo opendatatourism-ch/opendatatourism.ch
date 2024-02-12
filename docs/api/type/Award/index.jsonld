@@ -20,7 +20,7 @@
             "@type": "ImageObject",
             "name": "SVG Gilde",
             "author": "TSO AG",
-            "contentUrl": "/assets/image/Award/gilde.svg",
+            "contentUrl": "https://opendatatourism.ch/assets/image/Award/gilde.svg",
             "description": "Auszeichnung von Gilde als SVG",
             "license": "???"
         }

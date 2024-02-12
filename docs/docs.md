@@ -1,5 +1,0 @@
----
-permalink: /docs/
----
-
-# Dokumentation
