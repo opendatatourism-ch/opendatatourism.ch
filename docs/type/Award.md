@@ -7,6 +7,10 @@ permalink: /docs/type/Award
 Auszeichnungen gemäss https://schema.org/award erweitert gemäss https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/
 
 
+## Dokumentation / Tabelle
+
+https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ2JM/edit#gid=0
+
 ### Examples
 ```json
 {
@@ -28,4 +32,6 @@ Auszeichnungen gemäss https://schema.org/award erweitert gemäss https://docs.d
 
 ## Open Data JSON-LD List
 
+Liste:
 
+https://opendatatourism.ch/api/type/Award/index.jsonld
