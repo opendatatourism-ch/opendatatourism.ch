@@ -4,7 +4,7 @@ permalink: /docs/type/Award
 ---
 # Award
 
-Auszeichnungen gemäss [https://schema.org/award](https://schema.org/award) erweitert gemäss [docs.discover.swiss](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
+Auszeichnungen gemäss [schema.org/award](https://schema.org/award) erweitert gemäss [docs.discover.swiss](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
 
 
 ## Dokumentation / Tabelle
