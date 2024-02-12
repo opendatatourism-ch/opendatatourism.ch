@@ -1,4 +1,5 @@
 site_name: Open Data Tourism Documentation
+site_description: Gemeinsam an offen Daten für den Tourismus arbeiten, zur Verfügungstellen und ohne Einschränkunen weiterverwenden.
 theme:
   name: material
   language: en
@@ -50,7 +51,6 @@ extra:
 
 plugins:
   - search
-  - blog
   - i18n:
       docs_structure: folder
       languages:
