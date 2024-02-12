@@ -2,7 +2,7 @@
 title: Award / Auszeichnungen
 permalink: /docs/type/Award
 ---
-# Award
+# Award / Auszeichnungen
 
 Auszeichnungen für den Tourismus gemäss [schema.org/award](https://schema.org/award).
 Erweitert gemäss [docs.discover.swiss - Award](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
@@ -12,6 +12,11 @@ Erweitert gemäss [docs.discover.swiss - Award](https://docs.discover.swiss/dev/
 Ist die Basis für das JSON-LD
 
 [Google Tabelle](https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ2JM/edit#gid=0)
+
+## List / API
+
+* [JSON-LD](/api/type/Award/index.jsonld)
+* [CSV](/api/type/Award/index.csv) (ToDO)
 
 ### Examples
 ```json
@@ -29,9 +34,3 @@ Ist die Basis für das JSON-LD
     }
 }
 ```
-
-
-## List / API
-
-* [JSON-LD](/api/type/Award/index.jsonld)
-* [CSV](/api/type/Award/index.csv) (ToDO)

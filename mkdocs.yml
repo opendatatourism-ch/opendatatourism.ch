@@ -54,7 +54,6 @@ extra:
       link: /de/
       lang: de
 
-
 plugins:
   - search
   - i18n:
