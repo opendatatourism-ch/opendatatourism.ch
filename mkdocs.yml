@@ -1,5 +1,11 @@
+# Project information
 site_name: Open Data Tourism Documentation
 site_description: Gemeinsam an offen Daten für den Tourismus arbeiten, zur Verfügungstellen und ohne Einschränkunen weiterverwenden.
+
+# Repository
+repo_name: opendatatourism-ch/opendatatourism.ch
+repo_url: https://github.com/opendatatourism-ch/opendatatourism.ch
+
 theme:
   name: material
   language: de
