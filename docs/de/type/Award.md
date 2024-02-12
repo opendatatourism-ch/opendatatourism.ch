@@ -23,7 +23,7 @@ Ist die Basis für das JSON-LD
         "@type": "ImageObject",
         "name": "SVG OK:Go",
         "author": "TSO AG",
-        "contentUrl": "https://openfrontend.tourismusweb.site/assets/img/labels/ok_go.svg",
+        "contentUrl": "/assets/images/Award/okgo.svg",
         "description": "Auszeichnung von OK:GO als SVG",
         "license": "https://creativecommons.org/publicdomain/zero/1.0/"
     }

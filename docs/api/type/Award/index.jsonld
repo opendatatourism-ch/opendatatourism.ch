@@ -20,7 +20,7 @@
             "@type": "ImageObject",
             "name": "SVG Gilde",
             "author": "TSO AG",
-            "contentUrl": "https://openfrontend.tourismusweb.site/assets/img/labels/gilde.svg",
+            "contentUrl": "/assets/image/Award/gilde.svg",
             "description": "Auszeichnung von Gilde als SVG",
             "license": "???"
         }
