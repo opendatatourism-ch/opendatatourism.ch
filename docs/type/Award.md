@@ -4,12 +4,12 @@ permalink: /docs/type/Award
 ---
 # Award
 
-Auszeichnungen gemäss https://schema.org/award erweitert gemäss https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/
+Auszeichnungen gemäss [https://schema.org/award](https://schema.org/award) erweitert gemäss [docs.discover.swiss](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
 
 
 ## Dokumentation / Tabelle
 
-https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ2JM/edit#gid=0
+[Tabelle](https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ2JM/edit#gid=0)
 
 ### Examples
 ```json
@@ -32,6 +32,4 @@ https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ
 
 ## Open Data JSON-LD List
 
-Liste:
-
-https://opendatatourism.ch/api/type/Award/index.jsonld
+[Liste](https://opendatatourism.ch/api/type/Award/index.jsonld)
