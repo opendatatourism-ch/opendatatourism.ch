@@ -47,12 +47,12 @@ markdown_extensions:
 
 extra:
   alternate:
-    - name: English
-      link: / 
-      lang: en
     - name: Deutsch
       link: /de/
       lang: de
+    - name: English
+      link: / 
+      lang: en
 
 plugins:
   - search
