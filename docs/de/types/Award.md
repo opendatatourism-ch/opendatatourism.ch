@@ -13,10 +13,10 @@ Ist die Basis für das JSON-LD
 
 [Google Tabelle](https://docs.google.com/spreadsheets/d/10seflFrgXci7KovdYPe396UUZE_OXbrHItZldWLQ2JM/edit#gid=0)
 
-## List / API
+## Data / API
 
-* [JSON-LD](/api/type/Award/index.jsonld)
-* [CSV](/api/type/Award/index.csv) (ToDO)
+* [JSON-LD](/api/types/Award/index.jsonld)
+* [CSV](/api/types/Award/index.csv) (ToDO)
 
 ### Examples
 ```json
