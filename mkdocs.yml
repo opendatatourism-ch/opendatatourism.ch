@@ -1,5 +1,7 @@
 # Project information
 site_name: Open Data Tourism
+site_url: opendatatourism.ch
+site_author: Open Data Tourism
 site_description: Gemeinsam an offen Daten für den Tourismus arbeiten, zur Verfügungstellen und ohne Einschränkunen weiterverwenden.
 
 # Repository
@@ -55,6 +57,7 @@ extra:
       lang: en
 
 plugins:
+  - blog
   - search
   - i18n:
       docs_structure: folder
@@ -66,4 +69,9 @@ plugins:
         - locale: de
           name: Deutsch
           build: true
-  - blog
+# Page Tree
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Blog: blog/index.md
+
