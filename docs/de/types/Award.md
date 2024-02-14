@@ -1,5 +1,5 @@
 ---
-title: Award / Auszeichnungen
+title: Award - Auszeichnungen
 permalink: /docs/types/Award
 ---
 # Award - Auszeichnungen
