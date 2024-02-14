@@ -63,10 +63,10 @@ plugins:
       docs_structure: folder
       languages:
         - locale: en
-          default: true
           name: English
           build: true
         - locale: de
+          default: true
           name: Deutsch
           build: true
 # Page Tree
