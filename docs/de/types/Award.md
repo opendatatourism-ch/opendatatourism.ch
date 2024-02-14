@@ -2,7 +2,7 @@
 title: Award / Auszeichnungen
 permalink: /docs/types/Award
 ---
-# Award / Auszeichnungen
+# Award - Auszeichnungen
 
 Auszeichnungen für den Tourismus gemäss [schema.org/award](https://schema.org/award).
 Erweitert gemäss [docs.discover.swiss - Award](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Award/)
