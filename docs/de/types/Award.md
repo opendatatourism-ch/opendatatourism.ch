@@ -24,6 +24,8 @@ Ist die Basis für das JSON-LD
     "@type": "Award",
     "name": "OK:GO",
     "identifier": "okgo",
+    "dateCreated": "2024-02-09",
+    "dateModified": "2024-02-13",
     "logo": {
         "@type": "ImageObject",
         "name": "SVG OK:Go",
@@ -34,3 +36,8 @@ Ist die Basis für das JSON-LD
     }
 }
 ```
+
+## Verwendete Typen
+
+* https://schema.org/ImageObject
+* 

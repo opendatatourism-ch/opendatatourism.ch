@@ -1,27 +1,783 @@
 [
     {
         "@type": "Award",
-        "identifier": "okgo",
-        "name": "OK:GO",
+        "identifier": "hotellerieSuisse1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Einstern",
         "logo": {
             "@type": "ImageObject",
-            "name": "SVG OK:Go",
             "author": "TSO AG",
-            "contentUrl": "https://openfrontend.tourismusweb.site/assets/img/labels/ok_go.svg",
-            "description": "Auszeichnung von OK:GO als SVG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse1s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Einstern-Superior",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse1s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Zweistern",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse2s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Zweistern-Superior",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse2s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Dreistern",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse3s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Dreistern-Superior",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse3s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse4",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Vierstern",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse4.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse4s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Vierstern-Superior",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse4s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse5",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Fünfstern",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse5.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "hotellerieSuisse5s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Fünfstern-Superior",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/hotellerieSuisse5s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gastroSuisse1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "GastroSuisse 1-Stern",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gastroSuisse1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gastroSuisse2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "GastroSuisse 2-Sterne",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gastroSuisse2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gastroSuisse3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "GastroSuisse 3-Sterne",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gastroSuisse3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gastroSuisse4",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "GastroSuisse 4-Sterne",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gastroSuisse4.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gastroSuisse5",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "GastroSuisse 5-Sterne",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gastroSuisse5.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Einfache Wohnung (1-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment1s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Einfache Wohnung Superior (1-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment1s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Standard-Wohnung (2-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment2s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Standard-Wohnung Superior (2-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment2s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Komfort-Wohnung (3-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment3s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Komfort-Wohnung Superior (3-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment3s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment4",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Erstklass-Wohnung (4-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment4.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment4s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Erstklass-Wohnung Superior (4-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment4s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment5",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Luxus-Wohnung (5-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment5.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "apartment5s",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Luxus-Wohnung Superior (5-Stern)",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/apartment5s.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bioKnospe",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Bio Knospe",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bioKnospe.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bioGourmetKnospe",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Bio Gourmet Knospe",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bioGourmetKnospe.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bioSuisseKnospe",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Bio Suisse Knospe",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bioSuisseKnospe.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bnb1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Einfaches-BnB",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bnb1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bnb2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Standard-BnB",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bnb2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bnb3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Komfort-BnB",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bnb3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bnb4",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Erstklass-BnB",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bnb4.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "bnb5",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Luxus-BnB",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/bnb5.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "culinarium",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Culinarium",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/culinarium.svg",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/"
         }
     },
     {
         "@type": "Award",
         "identifier": "gilde",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
         "name": "Gilde",
         "logo": {
             "@type": "ImageObject",
-            "name": "SVG Gilde",
             "author": "TSO AG",
             "contentUrl": "https://opendatatourism.ch/assets/images/Award/gilde.svg",
-            "description": "Auszeichnung von Gilde als SVG",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "guideBleu",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Guide Bleu",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/guideBleu.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "jeunesRestaurateurs",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Jeunes Restaurateurs",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/jeunesRestaurateurs.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "q1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Q I - Service Quality",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/q1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "q2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Q II - Leadership Quality",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/q2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "q3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Q III - Service Management System",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/q3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "schweizMobil",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Schweiz Mobil",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/schweizMobil.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "goldenFisch",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-13",
+        "name": "Tafelgesellschaft zum Goldenen Fisch",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/goldenFisch.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "familyDestination",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Family Destination",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/familyDestination.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "wellnessDestination",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Wellness Destination",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/wellnessDestination.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau12",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 12 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau12.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau13",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 13 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau13.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau14",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 14 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau14.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau15",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 15 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau15.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau16",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 16 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau16.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau17",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 17 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau17.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau18",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 18 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau18.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "gaultMillau19",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Gault Millau 19 Punkte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/gaultMillau19.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "guideMichelin1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Guide Michelin 1-Stern",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/guideMichelin1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "guideMichelin2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Guide Michelin 2-Sterne",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/guideMichelin2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "guideMichelin3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Guide Michelin 3-Sterne",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/guideMichelin3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "swisstainable1",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Swisstainable Level I – committed",
+        "description": "Level I - committed richtet sich an Betriebe, die (noch) keine Zertifizierungen oder andere Nachhaltigkeitsnachweise vorweisen, sich aber zu einer nachhaltigen Unternehmensführung bekennen und ihren Betrieb laufend in Richtung Nachhaltigkeit weiterentwickeln möchten.",
+        "logo": {
+            "@type": "ImageObject",
+            "name": "SVG von Swisstainable Level I - committed",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/swisstainable1.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "swisstainable2",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Swisstainable Level II – engaged",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/swisstainable2.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "swisstainable3",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Swisstainable Level III – leading",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/swisstainable3.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "okgo",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "OK:GO",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/okgo.svg",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    {
+        "@type": "Award",
+        "identifier": "oskar",
+        "dateCreated": "2024-02-09",
+        "dateModified": "2024-02-09",
+        "name": "Oskar - Ostschweizer Gästekarte",
+        "logo": {
+            "@type": "ImageObject",
+            "author": "TSO AG",
+            "contentUrl": "https://opendatatourism.ch/assets/images/Award/oskar.svg",
             "license": "https://creativecommons.org/publicdomain/zero/1.0/"
         }
     }
