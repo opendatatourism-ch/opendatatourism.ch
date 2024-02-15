@@ -1,0 +1,646 @@
+{
+  "meta": {
+    "language": "en",
+    "apiVersion": "v1.3.3",
+    "page": {
+      "size": 10,
+      "totalElements": 4100,
+      "totalPages": 410,
+      "number": 0
+    }
+  },
+  "links": {
+    "self": "https://opendata.myswitzerland.io/v1/destinations",
+    "first": "https://opendata.myswitzerland.io/v1/destinations?page=0",
+    "last": "https://opendata.myswitzerland.io/v1/destinations?page=409",
+    "next": "https://opendata.myswitzerland.io/v1/destinations?page=1"
+  },
+  "data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/fff733d5-7f3a-445f-908d-bc6436963855"
+      },
+      "identifier": "fff733d5-7f3a-445f-908d-bc6436963855",
+      "name": "Lake Staz",
+      "abstract": "Lake Staz is located at 1,809 metres above sea level. It is nestled in the Stazerwald forest between St. Moritz and Pontresina. In summer, it is known as a bathing resort because of the crystal-clear water that flows down from the glaciers of the Bernina Alps and because of its pleasant temperature.",
+      "url": "https://www.myswitzerland.com/en/destinations/lake-staz/",
+      "photo": "https://www.myswitzerland.com/-/media/st/gadmin/images/landscapes/summer/lakes/lej_da_staz_127930.png",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 46.49853723585918,
+        "longitude": 9.83939900062391
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "placetypes",
+          "values": [
+            {
+              "name": "mountainlakes",
+              "title": "Mountain Lakes"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ffd3f597-a217-4052-9d05-374fbfceb94d"
+      },
+      "identifier": "ffd3f597-a217-4052-9d05-374fbfceb94d",
+      "name": "Salez",
+      "url": "https://www.myswitzerland.com/en/destinations/salez/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.2347263556,
+        "longitude": 9.4996318422
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "geographicallocations",
+          "values": [
+            {
+              "name": "alonggrandtour",
+              "title": "Along the Grand Tour"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff8df2f6-4419-4a25-b6ae-e313d1a6495e"
+      },
+      "identifier": "ff8df2f6-4419-4a25-b6ae-e313d1a6495e",
+      "name": "Diegten",
+      "url": "https://www.myswitzerland.com/en/destinations/diegten/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.4135549828,
+        "longitude": 7.8118002222
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff8ccdf3-386b-48f2-8aa1-e73fa039685a"
+      },
+      "identifier": "ff8ccdf3-386b-48f2-8aa1-e73fa039685a",
+      "name": "Schwyz",
+      "abstract": "The lively town of Schwyz, capital of the canton with the same name, is home to the Forum of Swiss History and important founding documents of the Swiss Confederation. Schwyz and the area surrounding it, is famous for its cherry blossom and numerous cherry specialities. And Schwyz is also where the famous Swiss army penknives come from.",
+      "url": "https://www.myswitzerland.com/en/destinations/schwyz/",
+      "photo": "https://www.myswitzerland.com/-/media/dam/resources/places/s/c/schwyz/images%20winter/30757_32001800.jpeg",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.02100936,
+        "longitude": 8.653659263
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "reachability",
+          "values": [
+            {
+              "name": "reachablebytrain",
+              "title": "Reachable by train"
+            },
+            {
+              "name": "reachablebylocalbus",
+              "title": "Reachable by local bus"
+            },
+            {
+              "name": "reachablebycar",
+              "title": "Reachable by car"
+            },
+            {
+              "name": "reachablebybus",
+              "title": "Reachable by bus"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "distancetoairport",
+          "values": [
+            {
+              "name": "max1h30min",
+              "title": "Max. 1 1/2 h"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "altitudinalbelt",
+          "values": [
+            {
+              "name": "alps",
+              "title": "Alps"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "placetypes",
+          "values": [
+            {
+              "name": "villages",
+              "title": "Villages"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "seasons",
+          "values": [
+            {
+              "name": "summer",
+              "title": "Summer"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "geographicallocations",
+          "values": [
+            {
+              "name": "inthecity",
+              "title": "In the city"
+            },
+            {
+              "name": "inthemountains",
+              "title": "In the mountains"
+            },
+            {
+              "name": "atthelake",
+              "title": "At the lake"
+            },
+            {
+              "name": "alonggrandtour",
+              "title": "Along the Grand Tour"
+            },
+            {
+              "name": "inthecountryside",
+              "title": "In the countryside"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff8bce7d-2622-44af-a67c-748602be56b5"
+      },
+      "identifier": "ff8bce7d-2622-44af-a67c-748602be56b5",
+      "name": "Stehrenberg",
+      "url": "https://www.myswitzerland.com/en/destinations/stehrenberg/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.5230550758274,
+        "longitude": 9.08869743347168
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff8b1fce-82c5-45d1-9948-5b80762874fe"
+      },
+      "identifier": "ff8b1fce-82c5-45d1-9948-5b80762874fe",
+      "name": "Diessbach b.Büren",
+      "url": "https://www.myswitzerland.com/en/destinations/diessbach-bbueren/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.1088197372,
+        "longitude": 7.3615914058
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff74f36c-5e4c-4194-93bf-23441ca2e471"
+      },
+      "identifier": "ff74f36c-5e4c-4194-93bf-23441ca2e471",
+      "name": "Mont-Tramelan",
+      "url": "https://www.myswitzerland.com/en/destinations/mont-tramelan/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.20756532,
+        "longitude": 7.052893456
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "geographicallocations",
+          "values": [
+            {
+              "name": "alonggrandtour",
+              "title": "Along the Grand Tour"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff73cfe5-42f4-4830-ab07-b92d4bdb7322"
+      },
+      "identifier": "ff73cfe5-42f4-4830-ab07-b92d4bdb7322",
+      "name": "St. German",
+      "url": "https://www.myswitzerland.com/en/destinations/st-german/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 46.31243,
+        "longitude": 7.82185
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "reachability",
+          "values": [
+            {
+              "name": "reachablebycar",
+              "title": "Reachable by car"
+            },
+            {
+              "name": "reachablebybus",
+              "title": "Reachable by bus"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "distancetoairport",
+          "values": [
+            {
+              "name": "max1h30min",
+              "title": "Max. 1 1/2 h"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "geographicallocations",
+          "values": [
+            {
+              "name": "inthemountains",
+              "title": "In the mountains"
+            },
+            {
+              "name": "alonggrandtour",
+              "title": "Along the Grand Tour"
+            },
+            {
+              "name": "inthecountryside",
+              "title": "In the countryside"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff689406-a1f8-4236-8252-4d253282b17d"
+      },
+      "identifier": "ff689406-a1f8-4236-8252-4d253282b17d",
+      "name": "La Joux FR",
+      "url": "https://www.myswitzerland.com/en/destinations/la-joux-fr/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 46.6290843842,
+        "longitude": 6.9391720142
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "geographicallocations",
+          "values": [
+            {
+              "name": "alonggrandtour",
+              "title": "Along the Grand Tour"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "TouristDestination",
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "links": {
+        "self": "https://opendata.myswitzerland.io/v1/destinations/ff5fdcde-4c42-4791-839e-9d566fe89eb6"
+      },
+      "identifier": "ff5fdcde-4c42-4791-839e-9d566fe89eb6",
+      "name": "Arosa",
+      "abstract": "The tradition-rich Grisons holiday resort of Arosa is located at the end of the romantic Schanfigg Valley at an altitude of about 1800 metres above sea level. With its impressive range of mountain peaks all around, Arosa Lenzerheide is just as attractive for extended hiking tours in summer as it is in winter, offering a great variety of snow sport activities.",
+      "url": "https://www.myswitzerland.com/en/destinations/arosa/",
+      "photo": "https://www.myswitzerland.com/-/media/dam/resources/places/a/r/arosa/images%20winter/35216_32001800.jpeg",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 46.7784600772,
+        "longitude": 9.6771143822
+      },
+      "classification": [
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "regionalspecialities",
+          "title": "Regional specialities",
+          "values": [
+            {
+              "name": "skiingandsnowboarding",
+              "title": "Skiing and snowboarding"
+            },
+            {
+              "name": "crosscountryskiing",
+              "title": "Crosscountry skiing"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "reachability",
+          "values": [
+            {
+              "name": "reachablebytrain",
+              "title": "Reachable by train"
+            },
+            {
+              "name": "reachablebylocalbus",
+              "title": "Reachable by local bus"
+            },
+            {
+              "name": "reachablebycar",
+              "title": "Reachable by car"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "distancetoairport",
+          "values": [
+            {
+              "name": "max3h",
+              "title": "Max. 3 h"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "altitudinalbelt",
+          "values": [
+            {
+              "name": "alps",
+              "title": "Alps"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "placetypes",
+          "values": [
+            {
+              "name": "villages",
+              "title": "Villages"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "seasons",
+          "values": [
+            {
+              "name": "winter",
+              "title": "Winter"
+            },
+            {
+              "name": "summer",
+              "title": "Summer"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "geographicallocations",
+          "values": [
+            {
+              "name": "inthemountains",
+              "title": "In the mountains"
+            },
+            {
+              "name": "atthelake",
+              "title": "At the lake"
+            },
+            {
+              "name": "alonggrandtour",
+              "title": "Along the Grand Tour"
+            },
+            {
+              "name": "inthecountryside",
+              "title": "In the countryside"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "views",
+          "values": [
+            {
+              "name": "mountainview",
+              "title": "Mountain view"
+            }
+          ]
+        },
+        {
+          "@context": "https://myswitzerland.io/",
+          "@type": "Classification",
+          "name": "licences",
+          "values": [
+            {
+              "name": "bysa",
+              "title": "BY-SA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
