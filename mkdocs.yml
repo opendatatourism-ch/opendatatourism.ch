@@ -59,7 +59,9 @@ extra:
 plugins:
   - blog
   - search:
-      lang: en
+      lang: 
+        - en
+        - de
   - i18n:
       docs_structure: folder
       languages:
