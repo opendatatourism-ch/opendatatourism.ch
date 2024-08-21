@@ -57,7 +57,8 @@ extra:
       lang: en
 
 plugins:
-  - blog
+  - Blog:
+      authors: false
   - search:
       lang: 
         - en
