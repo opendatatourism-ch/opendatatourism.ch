@@ -10,7 +10,7 @@ repo_url: https://github.com/opendatatourism-ch/opendatatourism.ch
 
 theme:
   name: material
-  language: de
+  language: en
   theme:
   palette:
     # Palette toggle for automatic mode
@@ -58,7 +58,8 @@ extra:
 
 plugins:
   - blog
-  - search
+  - search:
+      lang: en
   - i18n:
       docs_structure: folder
       languages:
